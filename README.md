@@ -2,7 +2,7 @@
 
 Complete resume below:
 
-![Resume](https://github.com/edolores/resume-latex-source/blob/master/Erick_Dolores_Colored_Resume.pdf?raw=true)
+[Resume](docs/Erick_Dolores_Colored_Resume.pdf)
 
 This resume was built using a LaTeX template built by Byungjin Park. The link is here: https://github.com/posquit0/Awesome-CV.
 
