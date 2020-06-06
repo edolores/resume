@@ -11,4 +11,4 @@ The files in `/resume` refer to the different sections of the resume.
 
 <a href="docs/Erick_Dolores_Colored_Resume.pdf" download>Download Here.</a>
 
-![Download Here.](docs/Erick_Dolores_Colored_Resume.jpg)
+![Download Here.](docs/Erick_Dolores_Colored_Resume.pdf)
